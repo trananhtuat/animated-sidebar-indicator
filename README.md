@@ -3,7 +3,7 @@
     1. Clone repo
     2. yarn install
     3. yarn start
-    4. Watch tutorial: 
+    4. Watch tutorial: https://youtu.be/fE3nIWqt8Tk
 
 # Reference
 
